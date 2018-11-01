@@ -1,0 +1,19 @@
+{
+    "name": "aecy/a3player",
+    "description": "Add ranking and show the information of a player",
+    "type": "laravel",
+    "license": "MIT",
+    "authors": [
+    	{
+    		"name": "aecy",
+    		"email": "jtexpulse@hotmail.com"
+    	}
+    ],
+    "minimum-stability": "dev",
+    "require": {},
+    "autoload": {
+        "psr-4": {
+            "Aecy\\A3Player\\": "src/"
+        }
+    }
+}
