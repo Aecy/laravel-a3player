@@ -3,13 +3,9 @@
 <p align="center">:heart: This package helps you to show the information of a player in the database and more..</p>
 
 <p align="center">
-
-[![GitHub issues](https://img.shields.io/github/issues/aecy/laravel-a3player.svg)](https://github.com/aecy/laravel-a3player/issues)
-
-[![GitHub forks](https://img.shields.io/github/forks/aecy/laravel-a3player.svg)](https://github.com/aecy/laravel-a3player/network)
-
-[![GitHub stars](https://img.shields.io/github/stars/aecy/laravel-a3player.svg)](https://github.com/aecy/laravel-a3player/stargazers)
-
+<a href="https://github.com/aecy/laravel-a3player/issues"><img src="https://img.shields.io/github/issues/aecy/laravel-a3player.svg" alt=""></a>
+<a href="https://github.com/aecy/laravel-a3player/stargazers"><img src="https://img.shields.io/github/stars/aecy/laravel-a3player.svg" alt=""></a>
+<a href="https://github.com/aecy/laravel-a3player/network"><img src="https://img.shields.io/github/forks/aecy/laravel-a3player.svg" alt=""></a>
 </p>
 
 ## Features
