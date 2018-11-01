@@ -15,5 +15,12 @@
         "psr-4": {
             "Aecy\\A3Player\\": "src/"
         }
+    },
+    "extra": {
+        "laravel": {
+            "providers": [
+                "Aecy\\A3Player\\A3PlayerServiceProvider"
+            ]
+        }
     }
 }
