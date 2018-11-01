@@ -26,16 +26,10 @@
 You can install the package using composer
 
 ```sh
-$ composer require overtrue/laravel-follow -vvv
+$ composer require aecy/a3player
 ```
 
-Then add the service provider to `config/app.php`
-
-```php
-Overtrue\LaravelFollow\FollowServiceProvider::class
-```
-
-Publish the config file:
+Publish the config file (optionnal):
 
 ```sh
 $ php artisan vendor:publish --provider='Aecy\A3Player\A3PlayerServiceProvider' --tag="config"
