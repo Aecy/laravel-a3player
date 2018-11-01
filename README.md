@@ -3,8 +3,13 @@
 <p align="center">:heart: This package helps you to show the information of a player in the database and more..</p>
 
 <p align="center">
-<a href="https://packagist.org/packages/overtrue/laravel-follow"><img src="https://poser.pugx.org/overtrue/laravel-follow/downloads" alt="Total Downloads"></a>
-<a href="https://packagist.org/packages/overtrue/laravel-follow"><img src="https://poser.pugx.org/overtrue/laravel-follow/license" alt="License"></a>
+
+[![GitHub issues](https://img.shields.io/github/issues/aecy/laravel-a3player.svg)](https://github.com/aecy/laravel-a3player/issues)
+
+[![GitHub forks](https://img.shields.io/github/forks/aecy/laravel-a3player.svg)](https://github.com/aecy/laravel-a3player/network)
+
+[![GitHub stars](https://img.shields.io/github/stars/aecy/laravel-a3player.svg)](https://github.com/aecy/laravel-a3player/stargazers)
+
 </p>
 
 ## Features
